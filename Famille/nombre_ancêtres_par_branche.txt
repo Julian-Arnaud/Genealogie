@@ -2,12 +2,12 @@ ARNAUD:
  +nbr:		62
 ---
 BARTHE:
- +nbr:		32
+ +nbr:		38
 ---------------
 MAILLOT:
  +nbr:		40
 ---
 MAINGUY:
- +nbr:		24
+ +nbr:		23
 
-Total:		158
+Total:		163
