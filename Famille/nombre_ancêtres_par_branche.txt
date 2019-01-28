@@ -5,9 +5,9 @@ BARTHE:
  +nbr:		38
 ---------------
 MAILLOT:
- +nbr:		42
+ +nbr:		46
 ---
 MAINGUY:
  +nbr:		35
 
-Total:		177
+Total:		181
