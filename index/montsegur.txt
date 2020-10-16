@@ -17,7 +17,7 @@
 9 Septembre, N, Jeanne AUTHIE, Jean AUTHIE & Dominique DUFAUX
 
 N: 13, M: 3, D: 0
-
++13
 ----1697----
 26 Janvier, N, Jean AUTHIE, Ernaud AUTHIE & Marguerite SICRE
 Février, N, Marie BARBAT, Jean BARBAT & Anne AUTHIE
@@ -36,7 +36,7 @@ Février, N, Marie BARBAT, Jean BARBAT & Anne AUTHIE
 17 Novembre, N, xxx LABEUR, François LABEUR & Marguerite AUTHIE
 
 N: 9, M: 1, D: 5
-
++4
 ----1698----
 2 Janvier, D, Anne AUTHIE, 24 ans
 4 Fevrier, D, Marie AUPIN, 30 ans
@@ -71,7 +71,7 @@ N: 9, M: 1, D: 5
 31 Décembre, N, Jeanne AUTHIE, Jammés AUTHIE & Pervonne FOURCASSA
 
 N: 16, M: 4, PM: 2, D: 9
-
++7
 ----1699----
 8 Janvier, N, François AUDOUY, Guilhem AUDOUY & Marguerite LABEUR
 30 Janvier, N, Marie AUTHIE, Jean AUTHIE & Marie SICRE
@@ -101,7 +101,7 @@ N: 16, M: 4, PM: 2, D: 9
 27 Décembre, N, Jean AUTHIE, Pierre AUTHIE & Jeanne AUTHIE
 
 N: 20, M: 1, PM: 1, D: 4
-
++16
 ----1696----
 3 Janvier, N, Marie AUDOUI, Paul AUDOUI & Catherine AUTHIE
 11 Janvier, N, François FOURCASSA, Doumengue FOURCASSA & Marie CAZAUX
@@ -133,7 +133,7 @@ N: 20, M: 1, PM: 1, D: 4
 26 Décembre, N, Jeanne GABI, Jean GABI & Marie BONNET
 
 N: 25, M: 0, D: 3
-
++12
 ----1695----
 4 Janvier, D, Jeanne AUTHIE, 65 ans
 12 Mars, N, Marguerite LUILHET, Bernat LUILHET & Marguerite AUTHIE
@@ -152,7 +152,7 @@ N: 25, M: 0, D: 3
 14 Novembre, N, Jacques CASTEL, François CASTEL & Françoise AUTHIE
 
 N: 7, M: 3, D: 5
-
++2
 ----1694----
 23 Janvier, D, Guilhalme VAIFFE, 43 ans
 26 Janvier, D, François AUDOUI, 60 ans
@@ -200,7 +200,7 @@ N: 7, M: 3, D: 5
 23 Décembre, N, Marguerite MOUNIE, Jean MOUNIE & Germene ALZIEU 
 
 N: 18, M: 0, PM: 3, D: 23
-
+-5
 ----1693----
 6 Janvier, N, Bernat BRIE, Guilhem BRIE & Pervonne AUTHIE
 4 Février, D, Frances AUTHIE, 59 ans
@@ -242,7 +242,7 @@ N: 18, M: 0, PM: 3, D: 23
 28 Décembre, N, Magdelene LUILHET, Jean LUILHET & Magdelene AUDOUI
 
 N: 12, M: 1, PM: 4, D: 21
-
+-9
 ----1692----
 5 Janvier, N, Pierre ESCANDE, Jean Pierre ESCANDE & Janne BERGERE
 18 Janvier, N, Arnaud LUILHET, Francés LUILHET & Jeanne AUDOUI
@@ -263,7 +263,7 @@ N: 12, M: 1, PM: 4, D: 21
 23 Aout, N, Françoise SALES, Paulet SALES & Françoise AUTHIE
 
 N: 15, M: 0, PM: 2, D: 1 
-
++14
 ----1691----
 11 Janvier, N, Jeanne ESCANDE, Arnaud ESCANDE & Marie MARTRE
 14 Janvier, N, Syerosme AUTHIE (???), Barthelemy AUTHIE & Marie AUTHIE
@@ -293,7 +293,7 @@ N: 15, M: 0, PM: 2, D: 1
 9 Septembre, N, Jeanne AUTHIE, Jean AUTHIE & Doumengue DUFAU
 
 N: 20, M: 5, D: 1
-
++19
 ----1687----
 3 Janvier, D, Jacques AUTHIE dit bonzom, 45 ans
 4 Janvier, N, Louis AUTHIE, Guilhem AUTHIE & Jeanne ALIEU
@@ -332,7 +332,7 @@ X, PM, Barthelemy AUTHIE & Jeanne RIVIERE
 30 Décembre, D, Jeanne CASTEL "la lisete", 76 ans
 
 N: 18, M: 5, D: 13
-
++5
 ----1680----
 1er Janvier, N, Marguerite AUDOUI, Louis AUDOUI & Marie AUTHIE
 12 Janvier, N, Jeanne AUTHIE, Jean AUTHIE & Doumengue DUFAUX
@@ -359,7 +359,7 @@ N: 18, M: 5, D: 13
 20 Décembre, D, Jean Bernard AUTHIE BRIOLLE, voir au dessus...
   
 N: 11, M: 2, D: 10
-
++1
 ----1681----
 2 Janvier, N, Anne MATELLE, Anthoine MATELLE & Catherine AUTHIE
 18 Janvier, D, Jeanne AUTHIE, morte née, Jacques AUTHIE & Magdelene AUDOUI
@@ -395,7 +395,7 @@ N: 11, M: 2, D: 10
 13 Décembre, D, Jean AUTHIE, 6 mois
 
 N: 13, M: 8, D: 11
-
++2
 ----1682----
 2 Janvier, N, François AUDOUI, Pierre AUDOUI & Jeanne BONET
 3 Janvier, N, Barthelemy AUTHIE, Barthelemy AUTHIE
@@ -434,7 +434,7 @@ X Novembre, N, Arnaud AUDOUI, Dominique AUDOUI & Marie ARNAUD
 28 Novembre, D, Jean AUTHIE, quelques jours, Jean AUTHIE & Marguerite AUDOUI
 
 N: 23, M: 3, D: 8
-
++15
 ----1683----
 8 Janvier, D, Barthelemy SICRE, 80 ans
 16 Janvier, N & D, Anthoine SARDA, Jean SARDA & Jeanne MOLIZE, mort le 23 Janvier
@@ -485,7 +485,7 @@ N: 23, M: 3, D: 8
 21 Décembre, N, Arnaud RIEUX, Jean RIEUX & Françoise AUTHIE
 
 N: 17, M: 3, D: 27
-
+-10
 ----1684----
 13 Janvier, N, Anthoine AUTHIE, Guilhem AUTHIE & Leonarde MOLIZE
 15 Janvier, M, Pierre BALOT & Anthoinete SIPLANE
@@ -527,7 +527,7 @@ N: 17, M: 3, D: 27
 23 Décembre, N, Suzanne AUTHIE, Anthoine AUTHIE Matelle & Catherine AUTHIE
 
 N: 17, M: 9, D: 12
-
++5
 ----1685----
 13 Janvier, D, Magdelene RIVIERE, 60 ans
 20 Janvier, N, Marie AUTHIE, Jean AUTHIE & Marie AUTHIE
@@ -562,7 +562,7 @@ N: 17, M: 9, D: 12
 30 Décembre, N, Magdelene AUTHIE, Guilhaume AUTHIE & Marie FONT
 
 N: 20, M: 3, D: 8
-
++12
 ----1686----
 8 Janvier, N, Catherine AUTHIE, Jean AUTHIE & Jeanne LAPASSETE
 14 Janvier, N, Marie BONA, Jean BONA & Marguerite ISPERTE
@@ -597,7 +597,7 @@ N: 20, M: 3, D: 8
 23 Décembre, D, Arnaud AUTHIE "lardit", 75 ans
 
 N: 17, M: 3, D: 11
-
++6
 ----1737----
 16 Janvier, M, François FOURCASSA dit Prunelle & Marie ARNAUD
 15 Janvier, D, Jeanne RIVET, 66 ans, veuve de Arnaud AUTHIE
@@ -634,7 +634,7 @@ N: 17, M: 3, D: 11
 3 Décembre, N, François ALIEU, Jean ALIEU (tailleur) & Marie ARNAUD
 
 N: 21, M: 5, D: 7
-
++14
 ----1738----
 23 Janvier, N, Jeanne LUILHET, Jean LUILHET & Roze LABEUR
 28 Janvier, D, Catherine BABI, ~80 ans, veuve de Jean AUTHIE balat
@@ -658,11 +658,225 @@ Février, M, Jean FAUCHE (François FAUCHE & Marguerite CASTEL) & Marie AUTHIE (
 28 Mars, D, Marie AUTHIE, ~50 ans
 16 Avril, N, Marie FOURCASSA, François FOURCASSA & Marie ARNAUD
 17 Avril, N & D, Jean FOURCASSA, Thomas FOURCASSA & Jeanne ESCANDE
+28 Avril, D, Philip VOUCH, 32 ans
+30 Avril, M, Jean ARNAUD & Jeanne BARBAT
+6 Mai, N, Marte DUVAL, Germain DUVAL & Marie CLANETTE
+15 Mai, N, Guilhaume AUTHIE, Guilhaume AUTHIE & Marguerite AUTHIE
+15 Mai, D, Antoine PROUCHER, 1 an, voir 1737
+29 Mai, N, Pierre LABEUR, Antoine LABEUR & Marie AUDOUI
+7 Juin, N, Arnaud AUTHIE, Guilhaume AUTHIE "listoune" & Germaine MOUNIE
+19 Juin, D, François AUDOUI dit la roche, ~80 ans
+1er Juillet, M, Mathieu AUTHIE & Marie ARNAUD
+8 Aout, D, Jeanne AUDOUI, ~60 ans
+10 Aout, D, Marguerite AUTHIE, ~70 ans, veuve de + François LABEUR
+29 Aout, N, Gerard GAUDONVILLE, Raimond GAUDONVILLE & Catherine AUDOUI
+30 Aout, N, Raimond BOUSSON, Barthelemi BOUSSON & Marie AUDOUI
+31 Aout, D, Baptiste AUDOUI, ~8 ans
+2 Septembre, D, Arnaud AUTHIE dit fourianne, 80 ans
+9 Septembre, D, Philip AUDOUI, 12 ans
+10 Septembre, D, Ramon ESCANDE, 62 ans
+11 Septembre, D, Jean AUTHIE puntis, ~10 mois
+12 Septembre, N, Jean AUTHIE sergolle, Jean AUTHIE & Marie AUTHIE
+26 Septembre, D, Arnaud ARNAUD dit coulardelle, 68 ans
+5 Octobre, D, Jean MOUNIE, ??, François MOUNIE & Jeanne BARBAT
+15 Octobre, N, Marie BONNET, Laurent BONNET & Anne MOUNIE
+19 Octobre, D, Joseph TRAQUE, ~2 ans
+21 Octobre, N, Jean Baptiste AUDOUI, Joseph AUDOUI (bailli de montsegur) & Jeanne AUTHIE
+2 Novembre, N, André AUTHIE, Guilhem AUTHIE dit fourianne & Marguerite MOUNIE
+8 Novembre, N, Catherine AUTHIE, François AUTHIE dit minaral & Magdelaine AUTHIE
+10 Novembre, N, Thomas JOFFRE, François JOFFRE & Catherine ESCANDE
+11 Novembre, D, André AUTHIE, 9 jours, voir 2 Novembre 1738
+28 Novembre, D, Jean Peguilla AUDOUI, 2 ans, Antoine AUDOUI & Marie AUDOUI
+3 Décembre, N, Antoine LUILHET dit baillou, Jean LUILHET & Elizabeth AUTHIE PUNTIS
+8 Décembre, N, Pierre AUTHIE, Antoine AUTHIE dit diguide & Jeanne BABI
+8 Décembre, N, Jean FAUCHE, Lafacio FAUCHE & Marie AUTHIE
+16 Décembre, D, Pierre AUTHIE, 8 jours, voir au dessus
+31 Décembre, N, François BRIOLLE, Pierre BRIOLLE & Jeanne CAUX
 
-Document 1NUM1/E114  MONTSEGUR. Baptêmes. Mariages. Sépultures. ( 1680-1792 ) page 89
+N: 27, M: 8, D: 22
++5
+----1739----
+1er Janvier, N, Marie LUILHET, Dominique LUILHET & Jeanne CANAL
+8 Janvier, D, Magdelaine LUILHET, 45 ans, veuve de Raimond AUDOUI
+10 Janvier, N, Marie AUTHIE, Arnaud AUTHIE & Magdelaine ARNAUD
+11 Janvier, N, Baptiste MOUNAREU, Jean MOUNAREU & Françoise AUTHIE
+13 Janvier, N, Raimond AUTHIE sergolle, Jean AUTHIE dit sergolle & Françoise AUTHIE
+15 Janvier, D, Baptiste MOUNAREU, voir 11 Janvier
+22 Janvier, M, Pierre AUTHIE & Jeanne AUDOUI
+26 Janvier, N, Marie AUTHIE, Dominique AUTHIE dit paquelat & Marguerite AUTHIE
+31 Janvier, N & D, sans nom, Laurent AUTHIE dit lafleur & Marie AUTHIE
+31 Janvier, NN, Guillaume & Bernard AUTHIE, Pierre AUTHIE dit poubil & Marguerite RIVET
+4 Février, M, Guillaume LABEUR & Jeanne AUTHIE
+6 Février, D, Bernard AUTHIE, voir 31 Janvier
+8 Février, D, Guillaume AUTHIE, voir 31 Janvier
+22 Février, N, Germene VOUCH, Jean VOUCH & Magdelaine MOUNIE
+21 Mars, D, Bernard LABEUR, 70 ans, tisserant
+16 Avril, D, Dominique AUTHIE dit michote, 85 ans
+4 Mai, N, Marie AUTHIE, Raimond AUTHIE & Marguerite AUDOUI
+10 Mai, N, Raimond JOFFRE, Pierre JOFFRE & Marie ROUYAND
+28 Mai, N, Magdelaine AUTHIE, Raimond AUTHIE dit picarrot & Marthe AUDOUI
+29 Mai, D, Anne AUTHIE, 50 ans, fame (sic) de Paul PUNTIS
+29 Mai, D, Jean AUTHIE BRIOLLE, 65 ans
+5 Juin, N, Paul AUDOUI, Jean AUDOUI dit perguilhé & Marie AUTHIE
+8 Juin, N, Mathieu SALES, Raimond SALES & Marguerite AUTHIE
+17 Juillet, N, Baptiste AUTHIE, Mathieu AUTHIE & Marie ARNAUD
+3 Aout, N, Jeanne ESCANDE, Jean ESCANDE & Magdelaine RIVET
+10 Aout, N, Pierre SICRE, Jean SICRE & Jeaneton AUTHIE
+15 Aout, D, Jacques AUTHIE, 2 ans, Raimond AUTHIE dit carto & Guillalme AUTHIE PUNTIS
+16 Aout, N, Jean MOUNIE, François MOUNIE & Jeanne BARBAT
+19 Aout, D, Paul AUDOUI, 2 mois, voir 5 Juin
+29 Aout, D, Antoine AUTHIE, ~2 ans, Raimond AUTHIE & Andrée BOURBONE
+2 Septembre, D, Françoise AUTHIE, ~2 ans, Raimond AUTHIE & Andrée BOURBONE
+12 Septembre, D, Jeanne ESCANDE, 55 ans de "mort subite"
+15 Septembre, N, Jean Raimond AUTHIE, Raimond AUTHIE & Andrée BOURBONE
+21 Septembre, D, Pierre LABEUR, 1 an 6 mois, Antoine LABEUR & Marie AUDOUI
+22 Septembre, N, Jean AUTHIE, Antoine AUTHIE & Marie PROUCHER
+28 Septembre, D, Marie AUTHIE, 80 ans, veuve de Doumengue AUTHIE
+1er Octobre, N, Jacques GAUDONVILLE, André GAUDONVILLE & Jeanne AUTHIE listoune
+11 Octobre, N, Elizabeth BLANCHET, Raimond BLANCHET dit carteclaro & Guillaumette AUTHIE
+12 Octobre, D, François AUTHIE, 3 ans, Jean AUTHIE sergolle & Marie AUTHIE
+18 Octobre, N, Jeanne AUDOUI, Jammes AUDOUI & Marguerite AUTHIE
+23 OCtobre, D, Jeanne CAUX, 30 ans, veuve Pierre AUTHIE BRIOLLE
+24 Octobre, D, Raimond FIGAROL, Pierre FIGAROL & Marguerite BABI
+19 Novembre, D, Jeanne BRIOLLE, ~2ans, Pierre BRIOLLE & Jeanne CAUX
+20 Novembre, D, Baptiste BARBAT, 12 ans, Arnaud BARBAT & Germene AUTHIE
+25 Novembre, M, Jean AUTHIE garde chasse & Catherine BARBAT
+26 Novembre, D, Joseph JOFFRE, 2 ans, Pierre JOFFRE & Marie ROUZAUD
+26 Novembre, D, Marie AUTHIE, 75 ans
+29 Novembre, N, Jeanne AUTHIE, Paul AUTHIE dit couquet & Rose FOURCASSA
+8 Décembre, N, Guillaume AUTHIE, François AUTHIE paparil & Anne AUTHIE
+10 Décembre, D, Jean AUDOUI, ~11 ans, Joseph AUDOUI & Jeanne AUTHIE
+15 Décembre, N, François DUNAC, Antoine DUNAC & Anne FAUCHE
+20 Décembre, N, Marie AUDOUI, Jean AUDOUI & Marie BABI
+20 Décembre, N, Andrée AUTHIE, Raimond AUTHIE rainet & Marie AUTHIE
+23 Décembre, D, Marie AUTHIE, 70 ans, veuve de Jean AUDOUI
+23 Décembre, N, Jacques LUILHET, Bernard LUILHET & Anne LUILHET
+26 Décembre, D, Arnaud FIGAROL, Pierre FIGAROL & Marguerite BABI
+29 Décembre, D, Marthe AUDOUI, 40 ans, femme de Raimond AUTHIE picarrot
 
+N: 29, M: 3, D: 27
++2
+----1740----
+4 Janvier, D, Jean AUTHIE, 60 ans, berger
+14 Janvier, D, Jacques LUILHET, 15 jours, voir 1739
+14 Janvier, N, Marie AUDOUI, Jean AUDOUI perere & Anne BOUCHION
+23 Janvier, N, Pierre LABEUR, Antoine LABEUR & Marguerite BABI
+31 Janvier, N & D, Antoine GAUDONVILLE, Raimond GAUDONVILLE & Marie BARBAT
+3 Février, N, Magdelaine AUTHIE, Antoine AUTHIE digoudé & Jeanne BABI
+10 Février, M, Joseph ARNAUD (+ Antoine ARNAUD & Elizabeth BONNET) & Marie AUTHIE (Jean AUTHIE feuillade & Jeanne AUTHIE)
+10 Février, M, Marc ARNAUD & Marguerite AUTHIE
+10 Février, M, Arnaud AUTHIE & Magdelaine BRIOLLE
+14 Février, N, Magdelaine AUTHIE, Jammes AUTHIE tistounet & Elisabeth AUTHIE
+14 Février, D, Pierre FIGAROL, 35 ans
+15 Février, M, Pierre AUTHIE & Jeanne ESCANDE
+15 Février, M, Pierre BOUCHION & Magdelaine SICRE
+16 Février, M, François BRIOLLE & Marie AUTHIE
+22 Février, N, François CONTE, Guillaume CONTE dit ruilhet & Jeanne AUDOUI
+23 Février, M, Antoine ROUDIER (de benaix) & Magdelaine ROUZAUD
+29 Février, M, Raimond FIGAROL (né à montferrié, vit à Montségur depuis 8 ans) & Marie AUTHIE
+29 Février, M, Jean BRIOLLE & Marguerite AUTHIE
+29 Février, M, Jean ESCANDE & Marie BRIOLLE
+18 Mars, N, Antoine AUTHIE, Guillaume AUTHIE & Magdelaine ARNAUD
+20 Mars, N, Jeanne MOUNIE, François MOUNIE & Marie ARNAUD
+23 Mars, D, Jeanne AUTHIE, ??, femme de Joseph AUTHIE
+24 Mars, D, Jean AUDOUI, 40 ans
+21 Avril, N, Marguerite AUTHIE, Pierre AUTHIE dit candabal & Jeanne AUDOUI
+14 Mai, N, Jeanne FOURCASSA, Thomas FOURCASSA & Jeanne ESCANDE
+20 Mai, N, Dominique LUILHET (M), Jean LUILHET dit ferra & Roze LABEUR
+21 Mai, D, Jean GAUDONVILLE, 95 ans
+30 Mai, N, Marguerite AUTHIE, Guillaume AUTHIE dit guilhot & Marguerite MOUNIE
+14 Juin, N, Laurent AUTHIE, Laurent AUTHIE lafleur & Marie AUTHIE
+9 Juillet, D, Jeanne AUTHIE, 30 ans, femme Guilhem LABEUR
+11 Juillet, D, Arnaud AUTHIE, 35 ans
+13 Juillet, D, mort né, Guillaume AUTHIE & Germene MOUNIE
+22 Juillet, D, Marie FOURCASSA, 2 ans, François FOURCASSA & Marie ARNAUD
+11 Aout, N, François AUTHIE puntis, Jean AUTHIE puntis & Marie AUDOUI
+13 Aout, N, Jeanne ARNAUD, Marc ARNAUD & Marguerite AUTHIE
+29 Aout, N, Elisabeth DUNAC, Germain (Germen) DUNAC & Marie CLANET
+18 Septembre, N, Marie FAUCHE, Arnaud FAUCHE & Catherine ESCANDE
+24 Septembre, D, Arnaud AUTHIE, 2 ans, Guillaume AUTHIE & Germene MOUNIE
+25 Septembre, N, Jean MOUNIE, Pierre MOUNIE & Jeanne BABI
+28 Septembre, N, Jeanne AUTHIE, Jean AUTHIE bale & Marie AUTHIE
+10 Octobre, N, Marie AUTHIE, Jean AUTHIE du bergere & Jeanne AUTHIE
+13 Octobre, N, Dominique AUTHIE (M), Paul(et) AUTHIE & Catherine AUTHIE
+23 Octobre, D, Marie AUTHIE, voir 10 Octobre
+27 Octobre, D, Dominique AUTHIE (M), voir 13 Octobre
+27 Octobre, D, Dominique FOURCASSA, 55 ans, François FOURCASSA & Anne AUTHIE
+12 Novembre, D, Marguerite CASSEILLE, 65 ans
+12 Novembre, N, Catherine LABEUR, Antoine LABEUR & Marie AUDOUI
+15 Novembre, M, Maurice LACOUSSENE (de lavelanet) & Marie ARNAUD
+28 Novembre, N, Marguerite ARNAUD, Jean ARNAUD & Jeanne BARBAT
+29 Novembre, N, Magdelaine BRIOLLE, François BRIOLLE & Marie AUTHIE
+30 Novembre, N, Jean Baptiste AUTHIE, Jean AUTHIE & Catherine BABI
+30 Novembre, D, Antoine DUNAC, 45 ans
+1er Décembre, N, Marie MOUNARAU, Jean MOUNARAU & Françoise AUTHIE couquet
+2 Décembre, D, Marguerite AUTHIE, 3 jours, Arnaud AUTHIE & Magdelaine BRIOLLE
+23 Décembre, N, Jeanne AUTHIE, Jean AUTHIE & Marie AUTHIE
+28 Décembre, N, François BRIOLLE, Jean BRIOLLE & Marguerite AUTHIE
 
+N: 28, M: 11, D: 17
++11
 
+----1741----
+20 Janvier, N, Jean PUNTIS, Jean (AUTHIE) PUNTIS & Marguerite ESCANDE
+31 Janvier, M, Pierre PROUCHER & Françoise AUDOUI
+10 Janvier (Février?), N, Anne SICRE, Jean SICRE & Jeanne AUTHIE
+15 Février, D, Marguerite CAUX, 53 ans, Guillaume CAUX & Jeanne, veuve de Jean AUTHIE briolle
+16 Mars, N, Anne AUTHIE, Raymon AUTHIE & Andrive GARSELLE
+23 Mars ou Avril, N, Jean BOUSSON, Pierre BOUSSON & Magdeleine SURRE
+24 Avril, M, Antoine ARNAUD & Magdelaine AUTHIE lafacio
+1er Mai, N, Marguerite ROUCH, Jean ROUCH & Magdelaine MOUNIE
+7 Mai, N, Jeanne ESCANDE, Jean ESCANDE & Marie AUTHIE briolle
+20 Mai, N, Jeanne AUTHIE feuillade, Jean AUTHIE feuillade & Marguerite AUTHIE
+12 Juin, N, Catherine AUDOUI, Joseph AUDOUI & Jeanne AUTHIE
+22 Juin, D, Laurent AUTHIE, 90 ans
+26 Juin, N, Marie LUILHET, Pierre LUILHET & Elizabeth AUTHIE maudille
+27 Juin, N, Marie AUTHIE, Antoine AUTHIE papinou & Marie PROUCHER
+12 Juillet, N, Guillaume LUILHET, Jacques LUILHET & Marguerite LUILHET
+16 Juillet, N, Catherine AUTHIE listoune, Guillaume AUTHIE listoune (tisserand) & Germaine MOUNIE
+26 Juillet, N, François AUTHIE, Pierre AUTHIE dit mousse & Marie AUTHIE minavol
+26 Juillet, D, Pierre SICRE, 2 ans
+31 Juillet, N, Jean LUILHET, Bernard LUILHET & Anne LUILHET
+6 Aout, N & D, Marguerite FIGAROL, Raimond FIGAROL & Marie AUTHIE briolle
+10 Aout, N, Marie ESCANDE, Jean ESCANDE & Magdelaine RIVET
+26 Aout, N, Marie AUTHIE poubil, Pierre AUTHIE poubil & Marguerite RIVET
+6 Septembre, D, Jeanne AUDOUI, 2 ans
+8 Septembre, N, Françoise ARNAUD, Joseph ARNAUD & Marie AUTHIE feuillade
+11 Septembre, D, François AUDOUI, 56 ans
+12 Septembre, N, Antoine JOFFRE, Pierre JOFFRE & Marie ROUZAUD
+17 Septembre, N, Paul AUDOUI, Jean AUDOUI & Marie DIGOUDE (AUTHIE)
+17 Septembre, D, Raimond AUTHIE feroche
+20 Septembre, D, Antoine AUTHIE, 18 mois
+20 Septembre, D, Jean AUTHIE papinou, 2 ans
+26 Septembre, N, Arnaud FAUCHE, Jean FAUCHE & Marie AUTHIE
+26 Septembre, N, Jean AUTHIE balat, Pierre AUTHIE balat & Elizabeth ARNAUD
+15 Octobre, D, François AUTHIE minavol, 40 ans
+17 Octobre, N, Magdelene BONNET, Laurent BONNET & Anne MOUNIE
+22 Octobre, N, Marguerite MOUNIE, Pierre MOUNIE & Jeanne AUTHIE dit lolo
+26 Octobre, D, Jeanne AUTHIE dite marquize, 22 ans
+26 Octobre, N, Pierre JOFFRE, François JOFFRE & Catherine ESCANDE
+26 Octobre, D, Marie AUTHIE, 4 mois, voir 27 Juin
+Fin Octobre, D, Jean BOUSSON, 7 mois, voir 23 Mars
+1er Novembre, N, Dominique ROUDIER, Antoine ROUDIER & Magdelaine ROUZAUD
+1er Novembre, D, Françoise CONTE, 46 ans, de benaix
+7 Novembre, M, Antoine ARNAUD & Jeanne BABI
+20 Novembre, M, Jacques AUDOUI dit proches & Marie AUTHIE dite bergere
+
+N: 26, M: 4, D: 14
++12
+
+----1742----
+
+Document 1NUM1/E114  MONTSEGUR. Baptêmes. Mariages. Sépultures. ( 1680-1792 ) page 116
+
+AUTHIE, AUTIE
+ESCANDE, SCANDE
+RIVET, RIVES
+AUDOUI, AUDOUY
+LUILHET, LEUILHET
+BABI, BABY
+BOUSSON, BOUCHION, BOUYCHOU
+BRIOLLE, BRIOLE
 
 
 
