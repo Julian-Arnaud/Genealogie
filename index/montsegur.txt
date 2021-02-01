@@ -1108,7 +1108,7 @@ N: 17, M: 6, D: 10
 N: 23, M: 7, D: 27
 -4
 
-----1748----
+----1747----
 4 Janvier, N, Pierre MOUSSE (authie), Pierre AUTHIE mousse & Marie AUDOUI
 21 Janvier, D, Marguerite SICRE, 1 an
 29 Janvier, N, Marguerite BERGERE (authie), Raymond AUTHIE bergere & Marie LABATUT
@@ -1145,8 +1145,39 @@ N: 23, M: 7, D: 27
 12 Novembre, N, Germaine MOUNIE, Pierre MOUNIE & Jeanne AUTHIE
 16 Novembre, D, Marguerite LUILHET, 7 ans
 26 Novembre, M, Antoine AUTHIE digoude (+ veuf Jeanne BABI) (Bernard AUTHIE digoude & Jeanne AUTHIE) & 
+28 Novembre, M, Guillaume ESCANDE (Jaques ESCANDE & Jeanne SAUBE) & Anne BOUYCHOU (Jean BOUYCHOU & Catherine BONEFEUILLE)
+29 Novembre, M, Guilhem LABEUR (+ Jeanne AUTHIER) (Bernard AUTHIE & + Marie SARDA) & Anne FOURIER (+ Antoine BASSOT)
+9 Décembre, ND, Marguerite AUDOUI
+19 Décembre, D, Pierre AUTHIE, 5 ans
+12 Mai 1747, D, Marguerite LABATUT, 80 ans
+24 Avril 1747, D, Marie BARBAT, 55 ans
+24 Avril 1747, D, Marie AUTHIE, 60 ans mort subite
+18 Juin 1747, D, Jeanne FOURCASSA, 80 ans
+14 Juillet, D, Jeanne BABI, 40 ans
+8 Aout, D, Pierre AUDOUI, 4 ans (?)
+8 Juin 1747, D, Marie AUTHIER, 85 ans
+4 Septembre 1747, N, Antoine ARNAUD, Marc ARNAUD & Marguerite AUTHIER
+22 Novembre 1747, D, Marguerite LUILHET, 80 ans
+14 Février 1747, M, Jean AUTHIE briole (Pierre AUTHIE briole & Marguerite LUILHET) & Marie AUTHIE (Raymond AUTHIE & Jeanne AUDOUI)
+15 Janvier 1747, D, Jean BERGER
 
-Document 1NUM1/E114  MONTSEGUR. Baptêmes. Mariages. Sépultures. ( 1680-1792 ) page 153
+N:29, M, 4, D: 20
+
+----1748----
+4 Janvier, D, Madelaine AUTHIE, 60 ans
+15 Janvier 1748, M, Jean AUDOUI (Jean AUDOUI & Marie DIGOUDE) & Françoise AUTHIE (Raymond & + Marte AUDOUI)
+15 Janvier 1748, N, Marguerite AUTHIE, Mathieu AUTHIE & Marie ARNAUD
+21 Janvier, D, Jeanne CASTEL, +80 ans
+9 Février, D, Jeanne BERGER, 3 ans
+9 Février, N, Marie JOFFRE, Pierre JOFFRE & Marie ROUZAUD
+17 Février, N, Jean AUTHIER, Jean AUTHIER, Catherine BABI
+19 Février, D, Jean Mxxxx, 60 ans
+19 Février, N, Catherine GAUDONVILLE, André GAUDONVILLE & Jeanne LISTOUNE (authie)
+19 Février, M, François LISTOUNE (authie) (Jean & Jeanne CASTEL) & Marie THIBAUX (François THIBAUX & +Marguerite LHUILET)
+20 Février, M, Pierre ARNAUD (+Vincent ARNAUD & Petronille CLxx) & Marie AUTHIE (Jean & Jeanne AUTHIE)
+26 Février, N, Guilhaume BOUYCHOU, Pierre BOUYCHOU & Madelaine Sxxx
+27 Février, M, Guillaume PROUCHER (Jean & Madelaine AUTHIE) & 
+Document 1NUM1/E114  MONTSEGUR. Baptêmes. Mariages. Sépultures. ( 1680-1792 ) page 157
 
 18 Juin 1746, D, Jeanne FOURCASSA, 8 ans
 3 Janvier 1748, D, Jammes AUTHIE puntis, +80 ans
